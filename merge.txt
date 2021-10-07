@@ -1,3 +1,7 @@
+luego de crear el archivo respuesta.txt dentro de la carpeta achivo, el github desktop permitio el commit
+
 Daniel Alejandro Giraldo Giraldo
 20
 Pasarla :v
+
+para evitar errores al momento de hacer un commit y/o push
